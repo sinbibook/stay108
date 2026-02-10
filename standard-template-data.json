@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-02-10T06:36:04.598Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-02-10T06:42:48.564Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "f49144de-dbc6-4af0-9732-bc3d93a95ebc",
     "homepageId": "ee4976dd-32b3-4598-8b0c-ac273bc0dc24"
@@ -636,10 +636,10 @@
             "family": "Pretendard"
           },
           "enMain": {
-            "cdn": "https://fonts.cdnfonts.com/css/diphylleia",
-            "key": "diphylleia",
+            "cdn": "https://use.typekit.net/vll4umt.css",
+            "key": "amandine",
             "woff2": null,
-            "family": "Diphylleia"
+            "family": "amandine"
           },
           "koMain": {
             "cdn": null,
@@ -650,7 +650,7 @@
         },
         "color": {
           "primary": "#F7F3EC",
-          "secondary": "#051B3D"
+          "secondary": "#08162B"
         }
       },
       "property": {

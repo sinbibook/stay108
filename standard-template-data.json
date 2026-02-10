@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-02-10T07:20:48.625Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-02-10T07:22:52.263Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "f49144de-dbc6-4af0-9732-bc3d93a95ebc",
     "homepageId": "ee4976dd-32b3-4598-8b0c-ac273bc0dc24"
@@ -450,15 +450,15 @@
                 "title": "바다 앞에서 머무는 가장 쾌적한 선택",
                 "images": [
                   {
-                    "id": "558ebff5-967b-4037-94bd-1010b265762d",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_hero/1770704329265-60cp0ksxkzp.jpg",
+                    "id": "215072ab-a7d9-4a15-b536-5c82dcc154b6",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_hero/1770704329265-lyuei2863b.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   },
                   {
-                    "id": "215072ab-a7d9-4a15-b536-5c82dcc154b6",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_hero/1770704329265-lyuei2863b.jpg",
+                    "id": "558ebff5-967b-4037-94bd-1010b265762d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_hero/1770704329265-60cp0ksxkzp.jpg",
                     "sortOrder": 1,
                     "description": "",
                     "isSelected": true

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-02-10T06:42:48.564Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-02-10T07:09:14.770Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "f49144de-dbc6-4af0-9732-bc3d93a95ebc",
     "homepageId": "ee4976dd-32b3-4598-8b0c-ac273bc0dc24"
@@ -515,7 +515,7 @@
                 "description": " "
               },
               "essence": {
-                "title": "전객실 오션뷰",
+                "title": "모든 객실에서 강릉 영진해변의 바다를 마주합니다. 창 너머로 펼쳐지는 오션뷰가 하루의 풍경이 되고, 머무는 순간마다 바다가 가장 가까이 머뭅니다.",
                 "images": [
                   {
                     "id": "3f7df1aa-2de4-4631-9f88-ad8332bfa12a",
@@ -532,10 +532,10 @@
                     "isSelected": true
                   }
                 ],
-                "description": "ㄹㄹ"
+                "description": "Closer to the Ocean"
               },
               "gallery": {
-                "title": "",
+                "title": "Stay108 Preview",
                 "images": [
                   {
                     "id": "6a6fa8c8-b15c-47df-8096-18c71cc3291f",
@@ -572,7 +572,8 @@
                     "description": "SPA",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": " "
               },
               "signature": {
                 "title": "",
@@ -585,12 +586,34 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [
+                  {
+                    "id": "4b3c3ace-7f2a-483d-b216-744f4a6c6ee6",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/directions_hero/1770706441805-gns0gdsapsf.jpg",
+                    "sortOrder": 0,
+                    "description": " ",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "90238609-e780-4afc-9da6-fefae8c14b59",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/directions_hero/1770706506978-wowwon5vz5e.jpg",
+                    "sortOrder": 1,
+                    "description": " ",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "1f8d4496-31cb-4687-a9d7-9d8837c52364",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/directions_hero/1770706506978-z3g7h8xbmqn.jpg",
+                    "sortOrder": 2,
+                    "description": " ",
+                    "isSelected": true
+                  }
+                ]
               },
               "notice": {
-                "title": "",
-                "description": ""
+                "title": " ",
+                "description": " "
               }
             }
           ]
@@ -599,26 +622,127 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": "강릉 스테이108",
+                "images": [
+                  {
+                    "id": "d8f051ef-544e-44a3-86de-344d279823a3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/main_hero/1770706025563-uy23p2h6zj.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "문을 나서면 바로 펼쳐지는 바다의 풍경\n전 객실 오션뷰로 어디에서나 바다를 마주합니다\n스파 객실에서 즐기는 여유로운 휴식\n신축 건물로 완성된 깨끗하고 쾌적한 공간"
               },
-              "about": []
+              "about": [
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "1f73eadb-147d-4ac9-bf8d-7a1b960abe2b",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/main_about/1770706025563-cmp91relp06.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "0ae56d41-7cb8-4d5f-b03e-6af4b5f734a8"
+                    }
+                  ],
+                  "blockId": "0ae56d41-7cb8-4d5f-b03e-6af4b5f734a8",
+                  "description": "모든 객실에서 강릉 영진해변의 바다를 마주합니다.\n창 너머로 펼쳐지는 오션뷰가 하루의 풍경이 되고,\n머무는 순간마다 바다가 가장 가까이 머뭅니다."
+                },
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "5981d411-185e-46f0-8b73-57465c0f29be",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/main_about/1770706025563-4qhty2gf4v3.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "39d25fca-5832-471f-8561-fa9d7f43a734"
+                    }
+                  ],
+                  "blockId": "39d25fca-5832-471f-8561-fa9d7f43a734",
+                  "description": "신축 건물로 완성된 쾌적한 공간에서\n깔끔하게 정돈된 인테리어가 편안함을 더하고,\n머무는 동안 내내 기분 좋은 휴식이 이어집니다."
+                }
+              ]
             }
           ]
         },
-        "room": [],
+        "room": [
+          {
+            "id": "3fddcb4b-0fbf-468f-98af-df2cb68cdb40",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "3ee5e95e-6d18-47ce-92fa-86aa977e13d9",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "7f5a3405-cb15-4374-9866-bfd92efd5c79",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": []
+                }
+              }
+            ]
+          }
+        ],
         "facility": [],
         "reservation": {
           "sections": [
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "05b139d1-5b77-433c-b6cd-fb41c35e07b1",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/reservation_hero/1770706667481-h9y949oxai.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "bf0cf5f2-3936-4b63-a9ea-98c5fbf2a5f1",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/reservation_hero/1770706667481-m7shj8mvj9.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "about": {
-                "title": "",
+                "title": " ",
                 "images": [],
-                "description": ""
+                "description": " "
               }
             }
           ]
@@ -968,8 +1092,8 @@
               "category": "roomtype_thumbnail"
             },
             {
-              "id": "28c5e4fa-d510-4b1f-a69d-ff34930bb3f9",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/roomtype_interior/1770703101420-qzsj2xlhr79.jpg",
+              "id": "4bb4f157-f173-458a-9534-968234429688",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/roomtype_interior/1770703101420-hw7ahjhfz9e.jpg",
               "sortOrder": 25,
               "description": "",
               "isSelected": true,
@@ -977,18 +1101,9 @@
               "category": "roomtype_interior"
             },
             {
-              "id": "4bb4f157-f173-458a-9534-968234429688",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/roomtype_interior/1770703101420-hw7ahjhfz9e.jpg",
+              "id": "28c5e4fa-d510-4b1f-a69d-ff34930bb3f9",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/roomtype_interior/1770703101420-qzsj2xlhr79.jpg",
               "sortOrder": 26,
-              "description": "",
-              "isSelected": true,
-              "blockId": "7f5a3405-cb15-4374-9866-bfd92efd5c79",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "5213ba7a-17af-485e-af02-d7303206722e",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/roomtype_interior/1770703101420-p7m1ru16iin.jpg",
-              "sortOrder": 27,
               "description": "",
               "isSelected": true,
               "blockId": "7f5a3405-cb15-4374-9866-bfd92efd5c79",
@@ -997,6 +1112,15 @@
             {
               "id": "d167db5d-afb1-4f94-b296-8cf3e97c2a50",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/roomtype_interior/1770703101420-0olmil5oqlur.jpg",
+              "sortOrder": 27,
+              "description": "",
+              "isSelected": true,
+              "blockId": "7f5a3405-cb15-4374-9866-bfd92efd5c79",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "5213ba7a-17af-485e-af02-d7303206722e",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/roomtype_interior/1770703101420-p7m1ru16iin.jpg",
               "sortOrder": 28,
               "description": "",
               "isSelected": true,

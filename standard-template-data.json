@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.2.0",
-    "generatedAt": "2026-02-10T07:09:14.770Z",
+    "version": "1.3.0",
+    "generatedAt": "2026-02-10T07:20:48.625Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "f49144de-dbc6-4af0-9732-bc3d93a95ebc",
     "homepageId": "ee4976dd-32b3-4598-8b0c-ac273bc0dc24"
@@ -76,13 +76,6 @@
         "displayOrder": 85,
         "images": [
           {
-            "id": "d9cb4b8c-1e14-4792-8256-3e97495ff953",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/04c983e5-62fe-4e2f-9545-3b2a8a605151/main/1770702681796-93nrt7lchxe.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "dd4e513c-31a3-4fde-a1a8-efec1e8b52dc",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/04c983e5-62fe-4e2f-9545-3b2a8a605151/main/1770702681803-w09ja9ipn9d.jpg",
             "sortOrder": 3,
@@ -100,6 +93,13 @@
             "id": "f0502822-a80e-494b-83f5-ad9b42ab926f",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/04c983e5-62fe-4e2f-9545-3b2a8a605151/main/1770702681794-188ipirlpod.jpg",
             "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "d9cb4b8c-1e14-4792-8256-3e97495ff953",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/04c983e5-62fe-4e2f-9545-3b2a8a605151/main/1770702681796-93nrt7lchxe.jpg",
+            "sortOrder": 1,
             "description": "",
             "isSelected": true
           },
@@ -148,13 +148,6 @@
             "isSelected": true
           },
           {
-            "id": "2d648f11-9f43-4c49-b623-228a6b1b09f3",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/09e025c2-f4ff-4d69-b865-4cf5091f01b7/main/1770702683709-sk7s4napdg9.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "fa4fae60-09bf-4ce2-952e-5653a641d68d",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/09e025c2-f4ff-4d69-b865-4cf5091f01b7/main/1770702683708-zva1ygylzwq.jpg",
             "sortOrder": 0,
@@ -171,23 +164,9 @@
         "displayOrder": 87,
         "images": [
           {
-            "id": "0c560ef5-2817-4e5f-b790-4c4f865dc6dc",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/455b3009-6756-4e9a-af59-e4204bf5c93f/main/1770702685352-7n3h60cvc99.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "26ddbe7c-939e-4437-b1bc-4b4a26ae2f7e",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/455b3009-6756-4e9a-af59-e4204bf5c93f/main/1770702685352-tz04tp8wwj.jpg",
             "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "095b4cb9-150e-45c1-9b6f-70424ce98c04",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/455b3009-6756-4e9a-af59-e4204bf5c93f/main/1770702685353-6l2vdgakibl.jpg",
-            "sortOrder": 5,
             "description": "",
             "isSelected": true
           },
@@ -209,6 +188,20 @@
             "id": "280dce08-3c7b-43a8-b75d-9fe89b7463d6",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/455b3009-6756-4e9a-af59-e4204bf5c93f/main/1770702685352-n1o7w9mlgo.jpg",
             "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "0c560ef5-2817-4e5f-b790-4c4f865dc6dc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/455b3009-6756-4e9a-af59-e4204bf5c93f/main/1770702685352-7n3h60cvc99.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "095b4cb9-150e-45c1-9b6f-70424ce98c04",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/455b3009-6756-4e9a-af59-e4204bf5c93f/main/1770702685353-6l2vdgakibl.jpg",
+            "sortOrder": 5,
             "description": "",
             "isSelected": true
           }
@@ -577,7 +570,22 @@
               },
               "signature": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "60352624-faf0-41d7-b500-2fe1910af299",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_signature/1770707552835-08at5tenlvcm.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "df952dc9-4c4f-4c9f-9542-047a2f3ff88a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_signature/1770707552835-fgdi5cjynbg.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               }
             }
           ]
@@ -596,24 +604,17 @@
                     "isSelected": true
                   },
                   {
-                    "id": "90238609-e780-4afc-9da6-fefae8c14b59",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/directions_hero/1770706506978-wowwon5vz5e.jpg",
-                    "sortOrder": 1,
-                    "description": " ",
-                    "isSelected": true
-                  },
-                  {
                     "id": "1f8d4496-31cb-4687-a9d7-9d8837c52364",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/directions_hero/1770706506978-z3g7h8xbmqn.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 1,
                     "description": " ",
                     "isSelected": true
                   }
                 ]
               },
               "notice": {
-                "title": " ",
-                "description": " "
+                "title": " 대중교통 이용방법",
+                "description": " 🚆 기차 이용 시 \n강릉역(KTX) 하차 / 택시 이용 약 20~30분 소요\n\n🚌 버스 이용 시 \n강릉 고속·시외버스터미널 하차 / 택시 이용 약 20~30분 소요\n주문진 시외버스터미널 하차/  택시 이용 약 5~10분 소요"
               }
             }
           ]

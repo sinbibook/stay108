@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-02-10T07:23:21.992Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-02-11T01:41:34.310Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "f49144de-dbc6-4af0-9732-bc3d93a95ebc",
     "homepageId": "ee4976dd-32b3-4598-8b0c-ac273bc0dc24"
@@ -538,54 +538,62 @@
                     "isSelected": true
                   },
                   {
+                    "id": "9b144123-7c2a-43a0-92a7-3cee3b23da3f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_gallery/1770705341513-hs8uharitff.jpg",
+                    "sortOrder": 1,
+                    "description": "SPA",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "697dbc15-9e39-4c9c-bf17-b4cf96a9664c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_gallery/1770773940535-psp4jlsf0rb.jpg",
+                    "sortOrder": 2,
+                    "description": "객실내부",
+                    "isSelected": true
+                  },
+                  {
                     "id": "816fd28a-96f6-4965-9199-e0b775031613",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_gallery/1770704329265-waydk882dq.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 3,
                     "description": "영진해변",
                     "isSelected": true
                   },
                   {
                     "id": "4138177c-0e94-4a16-b59c-048decd525c4",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_gallery/1770704329265-pvi80a41tun.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 4,
                     "description": "도깨비 촬영지",
                     "isSelected": true
                   },
                   {
-                    "id": "87489c4f-54a8-4ffc-983e-aa900a530ee8",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_gallery/1770704329265-bk0rist1pum.jpg",
-                    "sortOrder": 3,
+                    "id": "7f439f41-9e0e-4e1c-a6c7-38fe4faf8d04",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_gallery/1770773940536-cfsj18djine.jpg",
+                    "sortOrder": 5,
                     "description": "카페",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "9b144123-7c2a-43a0-92a7-3cee3b23da3f",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_gallery/1770705341513-hs8uharitff.jpg",
-                    "sortOrder": 4,
-                    "description": "SPA",
                     "isSelected": true
                   }
                 ],
                 "description": " "
               },
               "signature": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "60352624-faf0-41d7-b500-2fe1910af299",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_signature/1770707552835-08at5tenlvcm.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "오션뷰, 동해의 파노라마.\n스파 속 노을, 붉게 물드는 힐링.\n바다와 함께하는 가장 감성적인 휴식.",
                     "isSelected": true
                   },
                   {
                     "id": "df952dc9-4c4f-4c9f-9542-047a2f3ff88a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_signature/1770707552835-fgdi5cjynbg.jpg",
                     "sortOrder": 1,
-                    "description": "",
+                    "description": "오션뷰, 동해의 파노라마.\n스파 속 노을, 붉게 물드는 힐링.\n바다와 함께하는 가장 감성적인 휴식.",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": " "
               }
             }
           ]

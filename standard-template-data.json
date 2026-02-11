@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-02-11T02:01:50.539Z",
-    "templateType": "full_banner_slider_group",
+    "version": "1.10.0",
+    "generatedAt": "2026-02-11T06:13:23.227Z",
+    "templateType": "full_banner_slider_flat",
     "propertyId": "f49144de-dbc6-4af0-9732-bc3d93a95ebc",
     "homepageId": "ee4976dd-32b3-4598-8b0c-ac273bc0dc24"
   },
@@ -421,7 +421,7 @@
   ],
   "homepage": {
     "domain": "stay108.kr",
-    "templateType": "full_banner_slider_group",
+    "templateType": "full_banner_slider_flat",
     "images": [
       {
         "logo": [
@@ -757,9 +757,6 @@
           ]
         }
       },
-      "popup": {
-        "popups": []
-      },
       "theme": {
         "font": {
           "koSub": {
@@ -785,6 +782,9 @@
           "primary": "#F7F3EC",
           "secondary": "#08162B"
         }
+      },
+      "popup": {
+        "popups": []
       },
       "property": {
         "images": []
@@ -1274,7 +1274,6 @@
           ]
         }
       ]
-    },
-    "id": "ee4976dd-32b3-4598-8b0c-ac273bc0dc24"
+    }
   }
 }

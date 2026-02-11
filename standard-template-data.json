@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-02-11T06:53:40.682Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-02-11T08:50:14.432Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "f49144de-dbc6-4af0-9732-bc3d93a95ebc",
     "homepageId": "ee4976dd-32b3-4598-8b0c-ac273bc0dc24"
@@ -271,10 +271,10 @@
   "rooms": [
     {
       "id": "3fddcb4b-0fbf-468f-98af-df2cb68cdb40",
-      "name": "하양이(스파)",
+      "name": "하양이 (파노라마오션뷰, 스파)",
       "description": "",
       "roomInfo": "",
-      "group": "하양이(스파)",
+      "group": null,
       "size": 3.31,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
@@ -321,10 +321,10 @@
     },
     {
       "id": "3ee5e95e-6d18-47ce-92fa-86aa977e13d9",
-      "name": "파랑이",
+      "name": "파랑이 (파노라마오션뷰)",
       "description": "",
       "roomInfo": "",
-      "group": "파랑이",
+      "group": null,
       "size": 3.31,
       "baseOccupancy": 4,
       "maxOccupancy": 4,
@@ -370,10 +370,10 @@
     },
     {
       "id": "7f5a3405-cb15-4374-9866-bfd92efd5c79",
-      "name": "초록이(스파)",
+      "name": "초록이(파노라마오션뷰, 스파)",
       "description": "",
       "roomInfo": "",
-      "group": "초록이(스파)",
+      "group": null,
       "size": 3.31,
       "baseOccupancy": 2,
       "maxOccupancy": 2,
@@ -450,8 +450,8 @@
                 "title": "바다 앞에서 머무는 가장 쾌적한 선택",
                 "images": [
                   {
-                    "id": "215072ab-a7d9-4a15-b536-5c82dcc154b6",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_hero/1770704329265-lyuei2863b.jpg",
+                    "id": "9295d26c-a033-4397-b17a-a37a8bc3ab4b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_hero/1770704329265-8kjwpft2pnr.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
@@ -471,8 +471,8 @@
                     "isSelected": true
                   },
                   {
-                    "id": "9295d26c-a033-4397-b17a-a37a8bc3ab4b",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_hero/1770704329265-8kjwpft2pnr.jpg",
+                    "id": "215072ab-a7d9-4a15-b536-5c82dcc154b6",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_hero/1770704329265-lyuei2863b.jpg",
                     "sortOrder": 3,
                     "description": "",
                     "isSelected": true
@@ -508,7 +508,7 @@
                 "description": " "
               },
               "essence": {
-                "title": "모든 객실에서 강릉 영진해변의 바다를 마주합니다. 창 너머로 펼쳐지는 오션뷰가 하루의 풍경이 되고, 머무는 순간마다 바다가 가장 가까이 머뭅니다.",
+                "title": "모든 객실에서 강릉 영진해변의 바다를 마주합니다. 창 너머로 펼쳐지는 오션뷰가 하루의 풍경이 되고, 머무는 순간마다 바다가 가장 가까이 함께합니다.",
                 "images": [
                   {
                     "id": "3f7df1aa-2de4-4631-9f88-ad8332bfa12a",
@@ -582,14 +582,14 @@
                     "id": "60352624-faf0-41d7-b500-2fe1910af299",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_signature/1770707552835-08at5tenlvcm.jpg",
                     "sortOrder": 0,
-                    "description": "오션뷰, 동해의 파노라마.\n스파 속 노을, 붉게 물드는 힐링.\n바다와 함께하는 가장 감성적인 휴식.",
+                    "description": "탁 트인 오션뷰를 한눈에 담는 동해,\n스파에서 만나는 붉은 노을 힐링타임",
                     "isSelected": true
                   },
                   {
                     "id": "df952dc9-4c4f-4c9f-9542-047a2f3ff88a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_signature/1770707552835-fgdi5cjynbg.jpg",
                     "sortOrder": 1,
-                    "description": "오션뷰, 동해의 파노라마.\n스파 속 노을, 붉게 물드는 힐링.\n바다와 함께하는 가장 감성적인 휴식.",
+                    "description": "탁 트인 오션뷰를 한눈에 담는 동해,\n스파에서 만나는 붉은 노을 힐링타임",
                     "isSelected": true
                   }
                 ],
@@ -657,7 +657,7 @@
                     }
                   ],
                   "blockId": "0ae56d41-7cb8-4d5f-b03e-6af4b5f734a8",
-                  "description": "모든 객실에서 강릉 영진해변의 바다를 마주합니다.\n창 너머로 펼쳐지는 오션뷰가 하루의 풍경이 되고,\n머무는 순간마다 바다가 가장 가까이 머뭅니다."
+                  "description": "모든 객실에서 강릉 영진해변의 바다를 마주합니다. \n창 너머로 펼쳐지는 오션뷰가 하루의 풍경이 되고, \n머무는 순간마다 바다가 가장 가까이 함께합니다."
                 },
                 {
                   "title": " ",

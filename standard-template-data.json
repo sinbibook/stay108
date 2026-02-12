@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.13.0",
-    "generatedAt": "2026-02-11T09:09:57.562Z",
+    "version": "1.14.0",
+    "generatedAt": "2026-02-12T09:02:19.963Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "f49144de-dbc6-4af0-9732-bc3d93a95ebc",
     "homepageId": "ee4976dd-32b3-4598-8b0c-ac273bc0dc24"
@@ -68,6 +68,57 @@
       "securityDeposit": 0
     },
     "facilities": [
+      {
+        "id": "455b3009-6756-4e9a-af59-e4204bf5c93f",
+        "name": "스파",
+        "description": "따뜻한 물결에 몸을 맡기고 하루의 피로를 천천히 녹여내는 프라이빗 스파 타임",
+        "usageGuide": "- 이용객실 : 초록이, 하양이\n- 이용시간 : 15:00~22:00\n※ 입욕제,샴푸, 초, 꽃잎, 촛불 등 이물질 사용 금지\n※ 음주 후 이용 자제 ",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "280dce08-3c7b-43a8-b75d-9fe89b7463d6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/455b3009-6756-4e9a-af59-e4204bf5c93f/main/1770702685352-n1o7w9mlgo.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "6077f827-7227-4ebe-ab18-874b8dcfd4ea",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/455b3009-6756-4e9a-af59-e4204bf5c93f/main/1770702685352-2826etf80ip.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "0c560ef5-2817-4e5f-b790-4c4f865dc6dc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/455b3009-6756-4e9a-af59-e4204bf5c93f/main/1770702685352-7n3h60cvc99.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "095b4cb9-150e-45c1-9b6f-70424ce98c04",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/455b3009-6756-4e9a-af59-e4204bf5c93f/main/1770702685353-6l2vdgakibl.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "33a4448b-a9f0-4d49-b1c2-979a0fcb679a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/455b3009-6756-4e9a-af59-e4204bf5c93f/main/1770774903242-1mb3kn2fwop.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "3a94d5af-19c0-4d66-b4c6-5c946fd9e34c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/455b3009-6756-4e9a-af59-e4204bf5c93f/main/1770774903243-s5plz91kkn.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          }
+        ]
+      },
       {
         "id": "04c983e5-62fe-4e2f-9545-3b2a8a605151",
         "name": "도깨비 촬영지",
@@ -157,55 +208,12 @@
         ]
       },
       {
-        "id": "455b3009-6756-4e9a-af59-e4204bf5c93f",
-        "name": "스파",
-        "description": "따뜻한 물결에 몸을 맡기고 하루의 피로를 천천히 녹여내는 프라이빗 스파 타임",
-        "usageGuide": "- 이용객실 : 초록이, 하양이\n- 이용시간 : 15:00~22:00\n※ 입욕제,샴푸, 초, 꽃잎, 촛불 등 이물질 사용 금지\n※ 음주 후 이용 자제 ",
+        "id": "777b56fc-1c3f-47a5-a765-c0437f4bea6a",
+        "name": "솔밭산책로",
+        "description": "솔향 가득한 길 위에서 발걸음을 늦추고, 자연의 숨결을 따라 천천히 걸어가는 시간",
+        "usageGuide": "- 펜션 앞 솔밭 산책로 위치",
         "displayOrder": 87,
-        "images": [
-          {
-            "id": "280dce08-3c7b-43a8-b75d-9fe89b7463d6",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/455b3009-6756-4e9a-af59-e4204bf5c93f/main/1770702685352-n1o7w9mlgo.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "6077f827-7227-4ebe-ab18-874b8dcfd4ea",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/455b3009-6756-4e9a-af59-e4204bf5c93f/main/1770702685352-2826etf80ip.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "0c560ef5-2817-4e5f-b790-4c4f865dc6dc",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/455b3009-6756-4e9a-af59-e4204bf5c93f/main/1770702685352-7n3h60cvc99.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "095b4cb9-150e-45c1-9b6f-70424ce98c04",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/455b3009-6756-4e9a-af59-e4204bf5c93f/main/1770702685353-6l2vdgakibl.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "33a4448b-a9f0-4d49-b1c2-979a0fcb679a",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/455b3009-6756-4e9a-af59-e4204bf5c93f/main/1770774903242-1mb3kn2fwop.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "3a94d5af-19c0-4d66-b4c6-5c946fd9e34c",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/455b3009-6756-4e9a-af59-e4204bf5c93f/main/1770774903243-s5plz91kkn.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          }
-        ]
+        "images": []
       }
     ],
     "refundPolicies": [
@@ -457,37 +465,51 @@
                     "isSelected": true
                   },
                   {
+                    "id": "d8eb2e0c-864f-49c7-9814-7cf3e3bfffb5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_hero/1770885698602-i6pkib9zpo.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
                     "id": "558ebff5-967b-4037-94bd-1010b265762d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_hero/1770704329265-60cp0ksxkzp.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "4600ebaa-d77d-4fea-8cdf-be8ed974a59f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_hero/1770885698602-k31ve8jcz5.jpg",
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "d3d32e46-0436-4ab8-b7dd-3397da426a33",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_hero/1770704329265-t2rtzpneo3.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "215072ab-a7d9-4a15-b536-5c82dcc154b6",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_hero/1770704329265-lyuei2863b.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "4cb208d1-1cf9-4c0f-ba64-31b72ecaaff2",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_hero/1770705341513-y3ewfy9gixj.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "aa45024a-d6dd-4d93-a431-de46fdd12194",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_hero/1770704329265-ri994iu233l.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 7,
                     "description": "",
                     "isSelected": true
                   }
@@ -1371,6 +1393,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "ee4976dd-32b3-4598-8b0c-ac273bc0dc24"
   }
 }

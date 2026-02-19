@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-02-12T09:02:19.963Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-02-19T08:50:06.004Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "f49144de-dbc6-4af0-9732-bc3d93a95ebc",
     "homepageId": "ee4976dd-32b3-4598-8b0c-ac273bc0dc24"
@@ -213,7 +213,36 @@
         "description": "솔향 가득한 길 위에서 발걸음을 늦추고, 자연의 숨결을 따라 천천히 걸어가는 시간",
         "usageGuide": "- 펜션 앞 솔밭 산책로 위치",
         "displayOrder": 87,
-        "images": []
+        "images": [
+          {
+            "id": "51d55ab2-851c-4d69-9f03-6d50499f9a09",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/777b56fc-1c3f-47a5-a765-c0437f4bea6a/main/1771490044840-y7esmctk35.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "6bb1443d-f53b-4646-b86f-cca9d0c06879",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/777b56fc-1c3f-47a5-a765-c0437f4bea6a/main/1771490044840-iwz3xo4a36k.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "55a1e15e-f867-4d41-86fe-1d2b1a6cf036",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/777b56fc-1c3f-47a5-a765-c0437f4bea6a/main/1771490044838-0gnweovi126k.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e65dad61-3af9-4588-9462-593f0a5623e6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/777b56fc-1c3f-47a5-a765-c0437f4bea6a/main/1771490044840-um6tc3lpf6m.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -588,10 +617,17 @@
                     "isSelected": true
                   },
                   {
-                    "id": "7f439f41-9e0e-4e1c-a6c7-38fe4faf8d04",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_gallery/1770773940536-cfsj18djine.jpg",
+                    "id": "5abcea55-ffcb-4d29-84da-70ef6a509eab",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_gallery/1771490887467-dkxzky5jdxv.jpg",
                     "sortOrder": 5,
-                    "description": "카페",
+                    "description": "솔밭산책로",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "79bfaef3-8c63-4bb8-bef8-f4e7d61a96c7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_gallery/1771490887467-z1aipokogd.png",
+                    "sortOrder": 6,
+                    "description": "주문진풍물시장",
                     "isSelected": true
                   }
                 ],

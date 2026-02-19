@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.17.0",
-    "generatedAt": "2026-02-19T08:51:40.956Z",
+    "version": "1.18.0",
+    "generatedAt": "2026-02-19T08:54:25.478Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "f49144de-dbc6-4af0-9732-bc3d93a95ebc",
     "homepageId": "ee4976dd-32b3-4598-8b0c-ac273bc0dc24"
@@ -624,8 +624,8 @@
                     "isSelected": true
                   },
                   {
-                    "id": "79bfaef3-8c63-4bb8-bef8-f4e7d61a96c7",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_gallery/1771490887467-z1aipokogd.png",
+                    "id": "f2efa46a-2507-45ca-9ccd-608687b3a6e3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ee4976dd-32b3-4598-8b0c-ac273bc0dc24/index_gallery/1771491251773-9hxhoz6agto.png",
                     "sortOrder": 6,
                     "description": "주문진풍물시장",
                     "isSelected": true

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.18.0",
-    "generatedAt": "2026-02-19T08:54:25.478Z",
+    "version": "1.19.0",
+    "generatedAt": "2026-02-26T06:50:19.689Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "f49144de-dbc6-4af0-9732-bc3d93a95ebc",
     "homepageId": "ee4976dd-32b3-4598-8b0c-ac273bc0dc24"
@@ -302,7 +302,7 @@
     ],
     "nameEn": "Gangneung Stay108",
     "domain": "stay108.kr",
-    "realtimeBookingId": "10491",
+    "realtimeBookingId": "11048",
     "ybsId": ""
   },
   "rooms": [
@@ -311,6 +311,7 @@
       "name": "하양이 (파노라마오션뷰, 스파)",
       "description": "",
       "roomInfo": "",
+      "usageGuide": "",
       "group": null,
       "size": 3.31,
       "baseOccupancy": 2,
@@ -361,6 +362,7 @@
       "name": "파랑이 (파노라마오션뷰)",
       "description": "",
       "roomInfo": "",
+      "usageGuide": "",
       "group": null,
       "size": 3.31,
       "baseOccupancy": 4,
@@ -410,6 +412,7 @@
       "name": "초록이(파노라마오션뷰, 스파)",
       "description": "",
       "roomInfo": "",
+      "usageGuide": "",
       "group": null,
       "size": 3.31,
       "baseOccupancy": 2,

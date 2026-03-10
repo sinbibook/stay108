@@ -1129,7 +1129,7 @@
 
 .essence-title {
     font-family: var(--font-en-main);
-    font-size: clamp(2.5rem, 4vw, 3.5rem);
+    font-size: 34px;
     font-weight: 700;
     line-height: 1.1;
     color: var(--color-secondary);
@@ -1516,7 +1516,7 @@
 
 .signature-slide-title {
     font-family: var(--font-ko-main);
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     font-weight: 700;
     margin-bottom: 20px;
     line-height: 1.2;
@@ -1601,7 +1601,7 @@
     }
 
     .signature-slide-title {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 }
 

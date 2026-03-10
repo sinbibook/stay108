@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.20.0",
-    "generatedAt": "2026-03-10T08:51:40.993Z",
+    "version": "1.21.0",
+    "generatedAt": "2026-03-10T08:55:08.649Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "f49144de-dbc6-4af0-9732-bc3d93a95ebc",
     "homepageId": "ee4976dd-32b3-4598-8b0c-ac273bc0dc24"
@@ -396,7 +396,7 @@
     "nameEn": "Gangneung Stay108",
     "domain": "stay108.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11048",
-    "ybsId": ""
+    "ybsId": "78313"
   },
   "rooms": [
     {
@@ -1525,6 +1525,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "ee4976dd-32b3-4598-8b0c-ac273bc0dc24"
   }
 }

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.19.0",
-    "generatedAt": "2026-02-26T06:50:19.689Z",
+    "version": "1.20.0",
+    "generatedAt": "2026-03-10T08:51:40.993Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "f49144de-dbc6-4af0-9732-bc3d93a95ebc",
     "homepageId": "ee4976dd-32b3-4598-8b0c-ac273bc0dc24"
@@ -294,15 +294,108 @@
     },
     "images": [
       {
-        "thumbnail": [],
-        "exterior": [],
+        "thumbnail": [
+          {
+            "id": "7de3f989-646f-4c3c-a91e-36cf26481ec5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/f49144de-dbc6-4af0-9732-bc3d93a95ebc/thumbnail/1773048081891-m5zv9zvz6l9.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ],
+        "exterior": [
+          {
+            "id": "e0c2c325-89c5-4a1d-9391-1c89bad7bba9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/f49144de-dbc6-4af0-9732-bc3d93a95ebc/exterior/1773048081892-2rhx0n2ia8s.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "bcf67d53-d1b4-4168-b96f-acdb2cd15e09",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/f49144de-dbc6-4af0-9732-bc3d93a95ebc/exterior/1773048081892-3icjo10c7mx.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "304ddfe8-54b6-4f82-89fc-4c308a44acc1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/f49144de-dbc6-4af0-9732-bc3d93a95ebc/exterior/1773048081892-k05aw1zlp1.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "834a90f9-57aa-4185-8e0a-4c6ba786c184",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/f49144de-dbc6-4af0-9732-bc3d93a95ebc/exterior/1773048081892-p0u7a6bxpem.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "bdd3eda8-4a63-47bc-9e6b-57efa6577ed5",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/f49144de-dbc6-4af0-9732-bc3d93a95ebc/exterior/1773048081892-cfbhn4zdluj.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "fb653bdc-b1cd-482a-b389-7616384386d8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/f49144de-dbc6-4af0-9732-bc3d93a95ebc/exterior/1773048081892-hw8a2qhfmsf.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "042ef0c4-26a0-40b7-b4b2-ae95d6e9e57d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/f49144de-dbc6-4af0-9732-bc3d93a95ebc/exterior/1773048081892-k1ksfxo7oc.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e53adbc3-1fa0-47cd-bfce-5e662b3e1ac8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/f49144de-dbc6-4af0-9732-bc3d93a95ebc/exterior/1773048081892-4dyu9htiaum.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "013530ad-ec62-4df1-9c23-457c720ed41f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/f49144de-dbc6-4af0-9732-bc3d93a95ebc/exterior/1773048081892-4c7rg90nruu.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "11eb402c-98af-43a1-8fc4-d934aa90ef6a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/f49144de-dbc6-4af0-9732-bc3d93a95ebc/exterior/1773048081892-l3i7zvzksfr.jpg",
+            "sortOrder": 11,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "6fcf21a6-2bcc-4787-bfe2-05d025f492f1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/f49144de-dbc6-4af0-9732-bc3d93a95ebc/exterior/1773048081892-b7frycyjofd.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "cd04de47-7520-4c23-9fc5-86bbbe7b4a50",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/f49144de-dbc6-4af0-9732-bc3d93a95ebc/exterior/1773048081892-mn238abuxn.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          }
+        ],
         "surrounding": [],
         "commonArea": []
       }
     ],
     "nameEn": "Gangneung Stay108",
     "domain": "stay108.kr",
-    "realtimeBookingId": "11048",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11048",
     "ybsId": ""
   },
   "rooms": [
@@ -1432,7 +1525,6 @@
           ]
         }
       ]
-    },
-    "id": "ee4976dd-32b3-4598-8b0c-ac273bc0dc24"
+    }
   }
 }

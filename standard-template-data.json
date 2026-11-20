@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.30.0",
-    "generatedAt": "2026-11-20T07:07:32.466744457Z",
+    "version": "1.31.0",
+    "generatedAt": "2026-11-20T07:07:51.680931267Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "f49144de-dbc6-4af0-9732-bc3d93a95ebc",
     "homepageId": "ee4976dd-32b3-4598-8b0c-ac273bc0dc24"
@@ -9,6 +9,7 @@
   "property": {
     "id": "f49144de-dbc6-4af0-9732-bc3d93a95ebc",
     "name": "강릉 스테이108",
+    "nameEn": "Gangneung Stay108",
     "description": "모든 객실에서 강릉 영진해변의 바다를 마주하고 있는 이곳, 강릉 스테이 108 입니다.",
     "subtitle": "",
     "address": "강원특별자치도 강릉시 주문진읍 해안로 1571 2층",
@@ -25,6 +26,12 @@
     "reservationGuide": "[펜션 이용 안내 사항]\n- 예약된 인원 외 다른 사람의 방문을 제한합니다.\n- 반려(애완)동물 동반 및 입실 불가합니다. \n- 퇴실 시 지정된 장소에 음식물 쓰레기를 비롯한 재활용품, 일반 쓰레기를 배출해 주시기 바랍니다.\n- 객실에서는 절대 금연이오니, 지정된 장소를 이용해 주시기 바랍니다.\n- 침구류 오염 발생 시 세탁교체 비용 등 손해배상 비용이 청구될 수 있습니다.\n- 객실 내 냄새가 심한 음식(돼지고기, 생선, 청국장, 대게 등)의 조리 및 취식 불가합니다.",
     "province": "강원특별자치도",
     "city": "강릉시",
+    "domain": "stay108.kr",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/2066896664",
+    "ybsId": "78313",
+    "tripPropertyId": "11048",
+    "partnerType": "distributor_b",
+    "tripProviderName": "(주)신비서",
     "amenities": [
       "주차장",
       "흡연구역(지정장소)"
@@ -48,8 +55,7 @@
       "businessEmail": "",
       "businessType": "corporate",
       "businessCategory": "숙박업",
-      "eCommerceRegistrationNumber": "",
-      "ecommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -422,14 +428,7 @@
         "surrounding": [ ],
         "commonArea": [ ]
       }
-    ],
-    "nameEn": "Gangneung Stay108",
-    "domain": "stay108.kr",
-    "realtimeBookingId": "https://map.naver.com/p/entry/place/2066896664",
-    "ybsId": "78313",
-    "tripPropertyId": "11048",
-    "partnerType": "distributor_b",
-    "tripProviderName": "(주)신비서"
+    ]
   },
   "rooms": [
     {
@@ -1020,6 +1019,7 @@
     }
   ],
   "homepage": {
+    "id": "ee4976dd-32b3-4598-8b0c-ac273bc0dc24",
     "domain": "stay108.kr",
     "templateType": "full_banner_slider_flat",
     "images": [
@@ -1415,18 +1415,27 @@
             }
           ]
         },
-        "layoutMap": {
+        "nearbyAttractions": {
           "sections": [ ]
         },
-        "nearbyAttractions": {
+        "layoutMap": {
           "sections": [ ]
         },
         "landing": {
           "sections": [ ]
         }
       },
+      "popup": {
+        "popups": [ ]
+      },
       "theme": {
         "font": {
+          "koMain": {
+            "cdn": null,
+            "key": "imhyemin",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/IM_Hyemin-Regular.woff2",
+            "family": "ImHyeMin"
+          },
           "koSub": {
             "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
             "key": "pretendard",
@@ -1438,12 +1447,6 @@
             "key": "amandine",
             "woff2": null,
             "family": "amandine"
-          },
-          "koMain": {
-            "cdn": null,
-            "key": "imhyemin",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2106@1.1/IM_Hyemin-Regular.woff2",
-            "family": "ImHyeMin"
           }
         },
         "color": {
@@ -1451,10 +1454,8 @@
           "secondary": "#08162B"
         }
       },
-      "popup": {
-        "popups": [ ]
-      },
       "property": {
+        "name": "강릉 스테이108",
         "images": [
           {
             "id": "f2c7cbf0-77bf-410d-92b4-20ae9aa7f3d3",
@@ -1565,7 +1566,6 @@
             "category": "property_exterior"
           }
         ],
-        "name": "강릉 스테이108",
         "nameEn": "Gangneung Stay108"
       },
       "roomtypes": [
@@ -2057,7 +2057,6 @@
         "ruralStayMark": null,
         "ruralStayMarks": [ ]
       }
-    },
-    "id": "ee4976dd-32b3-4598-8b0c-ac273bc0dc24"
+    }
   }
 }

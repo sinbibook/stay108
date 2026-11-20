@@ -53,9 +53,9 @@ class DirectionsMapper extends BaseDataMapper {
 
         const images = directionsHeroData?.images;
 
-        // sortOrder로 정렬
+        // 노출(isSelected) 이미지만 필터링 후 sortOrder로 정렬
         const sortedImages = images && images.length > 0
-            ? images.sort((a, b) => (a.sortOrder || 0) - (b.sortOrder || 0))
+            ? images.filter(img => img.isSelected).sort((a, b) => (a.sortOrder || 0) - (b.sortOrder || 0))
             : [];
 
         // 0번째 이미지 매핑 (hero 배경)
@@ -147,11 +147,11 @@ class DirectionsMapper extends BaseDataMapper {
         const noticeSection = this.safeSelect('[data-directions-notice-section]');
         const notice = directionsData?.notice;
 
-        // notice 데이터가 없거나 title/description이 모두 비어있으면 섹션 숨김
+        // 안내 내용(description)이 비어 있으면 섹션 숨김 — 제목('이용안내')만 있는 경우도 숨긴다
         const hasTitle = notice?.title && notice.title.trim() !== '';
         const hasDescription = notice?.description && notice.description.trim() !== '';
 
-        if (!notice || (!hasTitle && !hasDescription)) {
+        if (!hasDescription) {
             if (noticeSection) noticeSection.style.display = 'none';
             return;
         }

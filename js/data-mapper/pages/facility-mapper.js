@@ -213,6 +213,16 @@ class FacilityMapper extends BaseDataMapper {
         const facility = this.getCurrentFacility();
         if (!facility) return;
 
+        // SPECIAL 넘버링 매핑 (메뉴와 동일하게 displayOrder 정렬 순서 기준)
+        const facilityNumber = this.safeSelect('#facility-number');
+        if (facilityNumber) {
+            const facilities = this.safeGet(this.data, 'property.facilities') || [];
+            const sortedFacilities = [...facilities].sort((a, b) => (a.displayOrder ?? 0) - (b.displayOrder ?? 0));
+            const orderIndex = sortedFacilities.findIndex(f => f.id === facility.id);
+            const number = orderIndex >= 0 ? orderIndex : 0;
+            facilityNumber.textContent = `SPECIAL ${String(number + 1).padStart(2, '0')}`;
+        }
+
         // 시설명 매핑
         const facilityName = this.safeSelect('[data-facility-name]');
         if (facilityName) {
@@ -225,8 +235,11 @@ class FacilityMapper extends BaseDataMapper {
             // customFields에서 about.title 가져오기
             const facilityPages = this.safeGet(this.data, 'homepage.customFields.pages.facility');
             const facilityPageData = facilityPages?.find(page => page.id === facility.id);
-            const description = facilityPageData?.sections?.[0]?.about?.title || facility.description || '시설 설명입니다.';
+            const description = (facilityPageData?.sections?.[0]?.about?.title || facility.description || '').trim();
             facilityDescription.textContent = description;
+            // 설명이 없으면 설명 영역을 숨긴다
+            const descriptionWrap = facilityDescription.closest('.facility-description');
+            if (descriptionWrap) descriptionWrap.style.display = description ? '' : 'none';
         }
     }
 
@@ -740,6 +753,7 @@ class FacilityMapper extends BaseDataMapper {
 
         // 텍스트 관련 섹션들만 업데이트
         this.mapHeroSection();
+        this.mapFacilityIntroSection();
         this.mapMainContentSection();
         this.mapExperienceSection();
     }
